@@ -1,6 +1,6 @@
 # BLITZ BOT
 
-It uses ReactJS on the frontend and nodeJS on the backend.
+It uses ReactJS on the frontend.
 
 
 ## Getting Started
