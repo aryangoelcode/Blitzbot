@@ -1,7 +1,7 @@
 # React-Chatbot
-DialogFlow chatbot which answers a few questions about me in a funny way.
+
 It uses ReactJS on the frontend and nodeJS on the backend.
-Try it [here!](https://chatbot-react.herokuapp.com/)
+
 
 ## Getting Started
 - Get your google credentials and create a dev.js file in the config folder.
@@ -10,20 +10,21 @@ Try it [here!](https://chatbot-react.herokuapp.com/)
 ```
 npm install
 npm run start:dev
+Under Process
 ```
-- Go to localhost:5000
+
 
 
 ## Demo
 ### The chatbot greets you on opening the website
-![greeting message](./screenshots/1.png)
+### still writing under process
+
 
 ---
 
 ### Some examples of conversations with the bot
-![conversation demo](./screenshots/2.png)
-![conversation demo](./screenshots/3.png)
-![conversation demo](./screenshots/4.png)
-![conversation demo](./screenshots/5.png)
+### avalable soom
+### by Aryan Goel
+
 
 
