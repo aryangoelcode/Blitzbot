@@ -1,4 +1,5 @@
-# BLITZ BOT
+# Chatbud
+
 
 It uses ReactJS on the frontend.
 
